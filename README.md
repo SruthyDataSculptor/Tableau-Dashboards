@@ -29,5 +29,4 @@ To showcase my Tableau visualizations, I will:
 - Upload them to the **images** folder in this repository.  
 - Embed them in this README file using Markdown:
 
-  ```md
-  ![Dashboard Example](images/dashboard_example.png)
+
